@@ -20,9 +20,12 @@
           packages = with pkgs; [
             php83
             php83Packages.composer
+            php83Extensions.zlib
+            php83Extensions.uv
+            php83Extensions.mbstring
+            php83Extensions.sodium
           ];
         };
       };
     };
 }
-

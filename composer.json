@@ -1,0 +1,19 @@
+{
+    "name": "crow/alchemist",
+    "description": "PHP Discord bot",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Crow\\Alchemist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TheWanderingCrow",
+            "email": "contact@wanderingcrow.net"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^10.4"
+    }
+}
