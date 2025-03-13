@@ -25,6 +25,9 @@
             php83Extensions.mbstring
             php83Extensions.sodium
           ];
+          shellHook = ''
+            composer install
+          '';
         };
       };
     };
