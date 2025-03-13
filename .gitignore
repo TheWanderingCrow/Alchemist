@@ -18,6 +18,7 @@ target/
 
 # Nix
 result
+.direnv/
 
 
 # Added by cargo
