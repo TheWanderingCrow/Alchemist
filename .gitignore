@@ -1,8 +1,12 @@
 # Nix
 result
 .direnv/
+.env
 
 
 # Composer
 composer.phar
 /vendor/
+
+# Monolog
+logs/

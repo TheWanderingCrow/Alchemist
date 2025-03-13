@@ -31,6 +31,7 @@ class ComposerStaticInitf076ddbfdf8551f0f0680f8d75044a72
             'Symfony\\Contracts\\Translation\\' => 30,
             'Symfony\\Component\\Translation\\' => 30,
             'Symfony\\Component\\OptionsResolver\\' => 34,
+            'Symfony\\Component\\Dotenv\\' => 25,
             'Symfony\\Component\\Clock\\' => 24,
         ),
         'R' => 
@@ -108,6 +109,10 @@ class ComposerStaticInitf076ddbfdf8551f0f0680f8d75044a72
         'Symfony\\Component\\OptionsResolver\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/options-resolver',
+        ),
+        'Symfony\\Component\\Dotenv\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/dotenv',
         ),
         'Symfony\\Component\\Clock\\' => 
         array (
