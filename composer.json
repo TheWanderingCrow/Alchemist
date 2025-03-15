@@ -16,6 +16,7 @@
     "require": {
         "team-reflex/discord-php": "^10.4",
         "monolog/monolog": "^3.8",
-        "symfony/dotenv": "^7.2"
+        "symfony/dotenv": "^7.2",
+        "symfony/http-client": "^7.2"
     }
 }
