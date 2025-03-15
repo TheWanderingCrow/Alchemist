@@ -3,7 +3,7 @@
         'name' => 'crow/alchemist',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '9ec8b85d3e833a57941b3757de66040ccf3c96bb',
+        'reference' => 'a2ad211c65c8562991c34b31df524b24298c07dc',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'crow/alchemist' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '9ec8b85d3e833a57941b3757de66040ccf3c96bb',
+            'reference' => 'a2ad211c65c8562991c34b31df524b24298c07dc',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
